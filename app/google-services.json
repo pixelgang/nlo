@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "736694561195",
+    "firebase_url": "https://no-leftovers-base.firebaseio.com",
+    "project_id": "no-leftovers-base",
+    "storage_bucket": "no-leftovers-base.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736694561195:android:09c574cb4df0136ecc8aee",
+        "android_client_info": {
+          "package_name": "com.ecomexpert.nlo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736694561195-p3saqdfmm5lk43k61t61cthnro8ot4lp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ecomexpert.nlo",
+            "certificate_hash": "0ae5cb0f50d31d442652985a6c546b67affbeb7f"
+          }
+        },
+        {
+          "client_id": "736694561195-id5bk7biubovtlvi6asmt6pe6tc6l7t3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ecomexpert.nlo",
+            "certificate_hash": "73696b189344022d6ff5ccb2db42d6bc7eabab0f"
+          }
+        },
+        {
+          "client_id": "736694561195-mjok0u4mk1gv0jti69sl506s949fdn63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg_Hevxkiq8Y0ReDcFjVCdKQkY6Rv7OOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736694561195-mjok0u4mk1gv0jti69sl506s949fdn63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
